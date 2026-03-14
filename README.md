@@ -151,3 +151,23 @@ Profissional de segurança ofensiva focado em **encontrar e reportar vulnerabili
 ![Visitas ao Perfil](https://komarev.com/ghpvc/?username=Huntterxx&color=00ff41&style=flat-square&label=Visitas+ao+Perfil)
 
 </div>
+
+---
+
+## 🏆 Troféus GitHub
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Huntterxx&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Minhas Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Huntterxx/Huntterxx/output/github-snake-dark.svg" alt="Snake animation" />
+
+</div>
