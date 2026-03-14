@@ -1,72 +1,73 @@
 <div align="center">
 
-# 🛡️ Hiago | Security Researcher & Ethical Hacker
+# 🛡️ Hiago | Pesquisador de Segurança & Hacker Ético
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cibersecurityhiago/)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/hunterxluxhug)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/hunterxluxhug)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Bug+Bounty+Hunter;Penetration+Tester;SaaS+Security+Specialist;API+%26+Cloud+Security+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Bug+Bounty+Hunter+%F0%9F%8E%AF;Pentester+%C3%89tico+%F0%9F%94%90;Especialista+em+Seguran%C3%A7a+de+SaaS+%E2%98%81%EF%B8%8F;Pesquisador+de+APIs+%26+Cloud+%F0%9F%94%8D" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 Sobre Mim
 
 ```yaml
-name: Hiago
-role: Security Researcher & Penetration Tester
-company: SH Empreendimentos LTDA
-focus: Bug Bounty + Private Pentests
-specialization: SaaS Security | API Testing | Cloud Misconfigurations
-platforms: HackerOne | Bugcrowd | Intigriti
-location: Brazil 🇧🇷
+nome: Hiago
+função: Pesquisador de Segurança & Pentester
+empresa: SH Empreendimentos LTDA
+foco: Bug Bounty + Pentests Privados
+especialização: Segurança de SaaS | APIs | Cloud | Lógica de Negócio
+plataformas: HackerOne | Bugcrowd | Intigriti
+localização: Brasil 🇧🇷
 ```
 
-Offensive security professional focused on **finding and reporting real-world vulnerabilities** in SaaS platforms, APIs, and cloud infrastructure. I specialize in uncovering critical business logic flaws, broken access controls, and misconfigurations that have real impact.
+Profissional de segurança ofensiva focado em **encontrar e reportar vulnerabilidades reais** em plataformas SaaS, APIs e infraestrutura cloud. Especializado em falhas críticas de controle de acesso, lógica de negócio e configurações inseguras que geram impacto real no mundo corporativo.
 
 ---
 
-## 🔥 Expertise
+## 🔥 Áreas de Especialização
 
 <div align="center">
 
-| Area | Skills |
+| Área | Habilidades |
 |:---:|:---|
-| 🔐 **Access Control** | IDOR, Privilege Escalation, Broken Authorization, RLS Bypass |
-| 🌐 **API Security** | REST, GraphQL, Supabase, Firebase, tRPC |
-| 💰 **Business Logic** | Payment Bypass, Credit Manipulation, Plan Escalation |
-| ☁️ **Cloud Security** | Supabase RLS, Firebase Rules, AWS Misconfigs |
-| 🕷️ **Web Application** | XSS, SSRF, CSRF, Injection, Auth Bypass |
-| 🔍 **Recon & OSINT** | JS Analysis, Subdomain Enum, API Discovery |
+| 🔐 **Controle de Acesso** | IDOR, Escalação de Privilégios, Broken Authorization, RLS Bypass |
+| 🌐 **Segurança de APIs** | REST, GraphQL, Supabase, Firebase, tRPC, Webhooks |
+| 💰 **Lógica de Negócio** | Bypass de Pagamento, Manipulação de Créditos, Escalação de Planos |
+| ☁️ **Segurança Cloud** | Supabase RLS, Firebase Rules, AWS Misconfigs, Storage Exposure |
+| 🕷️ **Aplicações Web** | XSS, SSRF, CSRF, Injection, Auth Bypass, Mass Assignment |
+| 🔍 **Recon & OSINT** | Análise de JS Bundles, Enumeração de Subdomínios, API Discovery |
 
 </div>
 
 ---
 
-## 📊 Stats & Impact
+## 📊 Estatísticas & Impacto
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────┐
-│          🏆 HUNTING STATS                   │
-├─────────────────────────────────────────────┤
-│  🔴 Critical Findings     │  20+            │
-│  🟠 High Findings         │  30+            │
-│  🟡 Medium Findings       │  40+            │
-│  📝 Total Reports         │  100+           │
-│  🎯 Private Pentests      │  15+            │
-│  💻 Platforms Tested      │  30+            │
-└─────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────┐
+│             🏆 HUNTING STATS                     │
+├──────────────────────────────────────────────────┤
+│  🔴 Findings Críticos        │  20+             │
+│  🟠 Findings Altos           │  30+             │
+│  🟡 Findings Médios          │  40+             │
+│  📝 Reports Totais           │  100+            │
+│  🎯 Pentests Privados        │  15+             │
+│  💻 Plataformas Testadas     │  30+             │
+│  💰 Bounties Pagos           │  ✅              │
+└──────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Ferramentas & Tecnologias
 
 <div align="center">
 
@@ -83,54 +84,56 @@ Offensive security professional focused on **finding and reporting real-world vu
 ![HTTPX](https://img.shields.io/badge/HTTPX-00BFFF?style=flat-square)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![cURL](https://img.shields.io/badge/cURL-073551?style=flat-square&logo=curl&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </div>
 
 ---
 
-## 🏆 Notable Findings (Anonymized)
+## 🏆 Findings Notáveis (Anonimizados)
 
-> *All findings were responsibly disclosed and are shared with permission or after remediation.*
+> *Todos os findings foram reportados de forma responsável e são compartilhados com permissão ou após correção.*
 
-🔴 **Critical — Privilege Escalation to Admin** *(SaaS Platform)*
-> Any authenticated user could escalate to admin role + inject unlimited credits via a single API request. Affected 5,000+ users.
+🔴 **Crítico — Escalação de Privilégios para Admin** *(Plataforma SaaS)*
+> Qualquer usuário autenticado podia escalar para role admin + injetar créditos ilimitados via uma única requisição API. Afetou 5.000+ usuários.
 
-🔴 **Critical — Zero RLS Data Exposure** *(AI Platform)*
-> 86,000+ user profiles with PII exposed without authentication due to missing Row-Level Security policies.
+🔴 **Crítico — Exposição Massiva de Dados sem RLS** *(Plataforma de IA)*
+> 86.000+ perfis de usuários com PII (emails, dados pessoais) expostos sem autenticação por ausência de Row-Level Security.
 
-🔴 **Critical — Payment Bypass** *(Marketing SaaS)*
-> Credit injection without payment + AI service abuse (unlimited generations). Full financial impact chain demonstrated.
+🔴 **Crítico — Bypass de Pagamento Completo** *(SaaS de Marketing)*
+> Injeção de créditos sem pagamento + abuso de serviços de IA (gerações ilimitadas). Cadeia completa de impacto financeiro demonstrada.
 
-🟠 **High — SSRF with Internal Network Access** *(Cloud Provider)*
-> Server-Side Request Forgery via monitoring feature, accessing internal metadata endpoints and cloud infrastructure.
+🟠 **Alto — SSRF com Acesso à Rede Interna** *(Provedor Cloud)*
+> Server-Side Request Forgery via funcionalidade de monitoramento, acessando endpoints internos de metadata e infraestrutura cloud.
 
-🟠 **High — PII & Payment Data Leak** *(Fintech SaaS)*
-> Customer CPF, full names, emails, and Stripe secrets exposed to anonymous users via misconfigured database policies.
+🟠 **Alto — Vazamento de PII & Dados de Pagamento** *(SaaS Fintech)*
+> CPF, nomes completos, emails e secrets do Stripe expostos para usuários anônimos via políticas de banco de dados mal configuradas.
 
 ---
 
-## 📈 Approach
+## 📈 Minha Abordagem
 
 ```
-1. 🔍 Deep Recon     → JS bundle analysis, API discovery, config extraction
-2. 🗺️ Attack Surface → Map every endpoint, table, RPC, and permission
-3. 🎯 Targeted Tests  → Focus on high-impact: auth, payments, data access
-4. 💥 Prove Impact    → PoC with real data, curl commands, screenshots
-5. 📝 Clear Reports   → Reproduction steps, business impact, remediation
-6. ✅ Verify Fixes    → Retest after patches to confirm resolution
+1. 🔍 Recon Profundo    → Análise de JS bundles, discovery de APIs, extração de configs
+2. 🗺️ Superfície        → Mapear cada endpoint, tabela, RPC e permissão
+3. 🎯 Testes Focados    → Priorizar alto impacto: auth, pagamentos, acesso a dados
+4. 💥 Provar Impacto    → PoC com dados reais, comandos curl, screenshots
+5. 📝 Reports Claros    → Passos de reprodução, impacto de negócio, remediação
+6. ✅ Verificar Fixes   → Reteste após patches para confirmar correção
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Vamos Conectar
 
 <div align="center">
 
-💼 **Available for private security assessments and penetration testing**
+💼 **Disponível para assessments de segurança e pentests privados**
 
-📩 Reach me on [LinkedIn](https://www.linkedin.com/in/cibersecurityhiago/) for business inquiries
+📩 Me encontre no [LinkedIn](https://www.linkedin.com/in/cibersecurityhiago/) para contato profissional
 
-*"Security is not about finding bugs — it's about proving impact."*
+*"Segurança não é sobre encontrar bugs — é sobre provar impacto."*
 
 </div>
 
@@ -138,13 +141,13 @@ Offensive security professional focused on **finding and reporting real-world vu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Huntterxx&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Huntterxx&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Huntterxx&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&locale=pt-br" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Huntterxx&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&locale=pt_BR" width="49%" />
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Huntterxx&color=00ff41&style=flat-square&label=Profile+Views)
+![Visitas ao Perfil](https://komarev.com/ghpvc/?username=Huntterxx&color=00ff41&style=flat-square&label=Visitas+ao+Perfil)
 
 </div>
