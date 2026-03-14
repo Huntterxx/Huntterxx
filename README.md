@@ -18,7 +18,7 @@
 nome: Hiago Silva
 função: Especialista em CyberSecurity | Arquiteto Cibersegurança | LGPD | Proteção de Dados | Análise de Risco | Segurança da Informação | Etical Hacker
 empresa: SH Empreendimentos LTDA
-foco: Bug Bounty + Pentests Privados
+foco: Bug Bounty + Pentests Privados.
 especialização: Segurança de SaaS | APIs | Cloud | Lógica de Negócio
 plataformas: HackerOne | Bugcrowd | Intigriti
 localização: Brasil 🇧🇷
