@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Hiago | Pesquisador de Segurança & Hacker Ético
+# 🛡️ Especialista em CyberSecurity |  Arquiteto Cibersegurança | LGPD | Proteção de Dados | Análise de Risco | Segurança da Informação | Etical Hacker
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cibersecurityhiago/)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/hunterxluxhug)
@@ -15,8 +15,8 @@
 ## 🎯 Sobre Mim
 
 ```yaml
-nome: Hiago
-função: Pesquisador de Segurança & Pentester
+nome: Hiago Silva
+função: Especialista em CyberSecurity | Arquiteto Cibersegurança | LGPD | Proteção de Dados | Análise de Risco | Segurança da Informação | Etical Hacker
 empresa: SH Empreendimentos LTDA
 foco: Bug Bounty + Pentests Privados
 especialização: Segurança de SaaS | APIs | Cloud | Lógica de Negócio
@@ -34,7 +34,7 @@ Profissional de segurança ofensiva focado em **encontrar e reportar vulnerabili
 
 | Área | Habilidades |
 |:---:|:---|
-| 🔐 **Controle de Acesso** | IDOR, Escalação de Privilégios, Broken Authorization, RLS Bypass |
+| 🔐 **Controle de Acesso** | IDOR, Escalação de Privilégios, Broken Authorization |
 | 🌐 **Segurança de APIs** | REST, GraphQL, Supabase, Firebase, tRPC, Webhooks |
 | 💰 **Lógica de Negócio** | Bypass de Pagamento, Manipulação de Créditos, Escalação de Planos |
 | ☁️ **Segurança Cloud** | Supabase RLS, Firebase Rules, AWS Misconfigs, Storage Exposure |
