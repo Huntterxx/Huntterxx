@@ -6,7 +6,7 @@
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/hunterxluxhug)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/hunterxluxhug)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Bug+Bounty+Hunter+%F0%9F%8E%AF;Pentester+%C3%89tico+%F0%9F%94%90;Especialista+em+Seguran%C3%A7a+de+SaaS+%E2%98%81%EF%B8%8F;Pesquisador+de+APIs+%26+Cloud+%F0%9F%94%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Bug+Bounty+Hunter+%F0%9F%8E%AF;Pentester+%C3%89tico+%F0%9F%94%90;Especialista+em+Seguran%C3%A7a+de+SaaS+%E2%98%81%EF%B8%8F;Segurança+de+APIs+%26+Cloud+%F0%9F%94%8D" alt="Typing SVG" />
 
 </div>
 
