@@ -154,16 +154,6 @@ Profissional de segurança ofensiva focado em **encontrar e reportar vulnerabili
 
 ---
 
-## 🏆 Troféus GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Huntterxx&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🐍 Minhas Contribuições
 
 <div align="center">
