@@ -148,7 +148,7 @@ Profissional de segurança ofensiva focado em **encontrar e reportar vulnerabili
 
 | Projeto | PR | Descrição | Status |
 |---|---|---|---|
-| [![OpenClaw](https://img.shields.io/badge/OpenClaw-135K⭐-FF6B6B?style=flat-square&logo=github)](https://github.com/openclaw/openclaw) | [#43385](https://github.com/openclaw/openclaw/pull/43385) | Fix: validação de arquivo vazio no Edge TTS — previne envio de áudio sem som | ✅ Merged |
+| [![OpenClaw](https://img.shields.io/badge/OpenClaw-314K⭐-FF6B6B?style=flat-square&logo=github)](https://github.com/openclaw/openclaw) | [#43385](https://github.com/openclaw/openclaw/pull/43385) | Fix: validação de arquivo vazio no Edge TTS — previne envio de áudio sem som | ✅ Merged |
 
 </div>
 
