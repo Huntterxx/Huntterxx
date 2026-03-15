@@ -139,6 +139,20 @@ Profissional de segurança ofensiva focado em **encontrar e reportar vulnerabili
 
 ---
 
+
+---
+
+## 🦞 Contribuições Open Source
+
+<div align="center">
+
+| Projeto | PR | Descrição | Status |
+|---|---|---|---|
+| [![OpenClaw](https://img.shields.io/badge/OpenClaw-135K⭐-FF6B6B?style=flat-square&logo=github)](https://github.com/openclaw/openclaw) | [#43385](https://github.com/openclaw/openclaw/pull/43385) | Fix: validação de arquivo vazio no Edge TTS — previne envio de áudio sem som | ✅ Merged |
+
+</div>
+
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Huntterxx&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&locale=pt-br" width="49%" />
